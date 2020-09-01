@@ -1,0 +1,10 @@
+{
+  "name": "bitcoin_proj",
+  "version": "1.0.0",
+  "dependencies": {
+    "elliptic": "^6.5.3"
+  },
+  "devDependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
